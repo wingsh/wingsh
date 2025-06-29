@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-29T01:17:36.920Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0x65f58dC4ED595C6E45c49A682862549b569CA5f8"
+    },
+    {
+      "chain": "solana",
+      "address": "4DxYL2kbSnU9Kty6a31LgF8vPueVaovYFu6Df5FgP5gP"
+    }
+  ]
+}
+WALLET-LINKING-END -->
